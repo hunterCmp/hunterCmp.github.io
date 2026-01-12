@@ -1,13 +1,23 @@
- <!DOCTYPE html>
- <html>
-  <meta>
-     <link rel="stylesheet" type="text/css" href="style.csS">
- </meta>
- <head>
-     <title>[Page Title]</title>
- </head>
- <body>
-     <h1>[Heading]</h1>
-     <p>[Short description]</p>
- </body>
- </html>
+<!DOCTYPE html>
+<html>
+<meta>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</meta>
+<head>
+    <title>hunterCmp</title>
+</head>
+<body>
+    <h1>[Heading]</h1>
+    <p>[Short description]</p>
+
+    <button onclick="castSpell()">Click Me</button>
+    <p id="spellResult"></p>
+
+    <script>
+    function castSpell() {
+        document.getElementById("spellResult").innerText =
+            "Button clicked successfully.";
+    }
+</script>
+</body>
+</html>
