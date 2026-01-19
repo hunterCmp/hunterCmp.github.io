@@ -1,11 +1,5 @@
 # hunterCmp.github.io
 
-## Three People
+## Radiant Echoes
 
-- Gianna Solano : Learning how advanced graphics work
-- Raymon Lau : Making graphics
-- Andrew Lewis : Learning how graphics are implemented in game engines
-
-## Where I'd Like to Visit
-
-One place I'd like to visit is Sicily. When my parents came back from an Italy trip they showed me their pictures and told me what happened their and I like to see and experience the same things.
+RADIANT ECHOES explores the faint resonance from the remnants of a civilization that once spanned the stars. While their mastery over the stars has not been seen for an age so long that their creations now lie dull in the yawning cosmos, fleeting glints shows what remains of their artistry. 
